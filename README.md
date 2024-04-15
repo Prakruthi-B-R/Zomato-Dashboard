@@ -34,9 +34,9 @@ Step 13 : Created Different charts that shows sales trends by year, anlayze the 
 
 ![Screenshot 2024-04-15 212737](https://github.com/Prakruthi-B-R/Zomato-Dashboard/assets/164649454/2381f5b1-376b-4760-8839-5cabbd91ea79)
 
-![Screenshot 2024-04-15 212923](https://github.com/Prakruthi-B-R/Zomato-Dashboard/assets/164649454/5829323f-fccb-4b3a-ada0-581e29382af5)
+![Screenshot 2024-04-15 215429](https://github.com/Prakruthi-B-R/Zomato-Dashboard/assets/164649454/5a4a1343-e7f3-4f34-b513-d438566dd9ec)
 
-![Screenshot 2024-04-15 213008](https://github.com/Prakruthi-B-R/Zomato-Dashboard/assets/164649454/8be34dea-e3e9-4009-a441-142a89d7f45c)
+![Screenshot 2024-04-15 215459](https://github.com/Prakruthi-B-R/Zomato-Dashboard/assets/164649454/41c6517e-9eba-4efb-88f8-808c6ab699e7)
 
 
 
